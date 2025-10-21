@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Samuel Tesfachew, a passionate Computer Science and Engineering student in my 3rd year at Adama Science and Technology University (ASTU). I specialize in UI/UX design, front-end development, and web design, with hands-on experience using Figma, HTML, CSS, JavaScript, and modern frameworks.
+Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engineering student at Adama Science and Technology University (ASTU). I’m a Full-Stack Developer, WordPress Developer, and UI/UX Designer dedicated to crafting modern, user-focused digital experiences. My work involves building dynamic, responsive, and SEO-optimized websites using modern web frameworks and development tools. With a strong balance between design aesthetics and technical precision, I strive to deliver web solutions that are both visually appealing and functionally robust.
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.201a0fce023b2b6590a6b18a4fdd4f16?rik=i4TmB%2ftPJzQPbg&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capechusami&label=Profile%20views&color=0e75b6&style=flat" alt="capechusami" /> </p>
