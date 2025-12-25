@@ -16,7 +16,10 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 ![](https://nirzak-streak-stats.vercel.app/?user=Capechusami&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Capechusami&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+### ⚡ Profile Metrics  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bemnetmussa&theme=tokyonight" alt="Profile Details" />  
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
