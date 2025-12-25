@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi, I'm Samuel Tesfachew</h1>
+
+>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=600&lines=WordPress+Developer;Full+Stack+Developer;UI/UX+Designer)](https://git.io/typing-svg)
+
+
 Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engineering student at Adama Science and Technology University (ASTU). I’m a Full-Stack Developer, WordPress Developer, and UI/UX Designer dedicated to crafting modern, user-focused digital experiences. My work involves building dynamic, responsive, and SEO-optimized websites using modern web frameworks and development tools. With a strong balance between design aesthetics and technical precision, I strive to deliver web solutions that are both visually appealing and functionally robust.
 
 
