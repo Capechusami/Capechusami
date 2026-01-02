@@ -24,9 +24,7 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
   <a href="https://www.linkedin.com/in/samuel-tesfachew/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Abudi-09/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
