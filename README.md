@@ -24,8 +24,13 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
   <a href="https://www.linkedin.com/in/samuel-tesfachew/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://web.facebook.com/Capechu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dawit_getechew" height="30" width="40" />
+  </a>
+<a href="https://www.instagram.com/capechu_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawit_getache.1" height="30" width="40" /></a>
 
 </p>
+</p>
+
 
 ---
 
