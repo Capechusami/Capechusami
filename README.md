@@ -34,7 +34,7 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wordpress,js,html,css,cpp,java,nodejs,py,react,ts,xd,php,cs,express" />
