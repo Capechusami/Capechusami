@@ -33,7 +33,7 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 
 
 ---
-
+<!-- Tech stack section -->
 # 💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
