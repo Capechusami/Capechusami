@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">
+<h1 align="center"> 
   <a href="https://github.com/Capechusami">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=D8F733&center=true&vCenter=true&width=1000&height=150&lines=Hi%2C+I'm+Samuel+;Full+Stack+Developer;WordPress+Designer+%26+Developer;UI%2FUX+Designer+" alt="Typing SVG" />
   </a>
