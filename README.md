@@ -1,4 +1,9 @@
-<img  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Samuel%20Tesfachew%20%20&fontAlign=52&fontColor=00000&fontSize=39&animation=fadeIn&fontAlignY=26"/>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=HI,%20%There👋%20%I'm%20%Samuel%20%&fontAlignY=41&descAlignY=46&fontSize=40&fontAlign=49&fontColor=ffffff&descAlign=51&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
 ---
 
@@ -34,22 +39,103 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 
 ---
 <!-- Tech stack section -->
-# 💻 Tech Stacks :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,js,html,css,cpp,java,nodejs,py,react,ts,xd,php,cs,express" />
+<h2>💻 Skills & Technologies</h2>
+
+<h3>Programming Languages</h3>
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40" style="margin-right:20px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" style="margin-right:20px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40" style="margin-right:20px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" style="margin-right:20px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" style="margin-right:20px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   </a>
 </p>
 
+<h3>Frontend Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+</p>
+
+<h3>Backend Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+</p>
+
+<h3>AI / ML</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
+</p>
+
+<h3>Database</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+</p>
+
+<h3>DevOps</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/>
+</p>
+
+<h3>Software</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=illustrator" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=photoshop" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" width="40"/>
+</p>
+
 ---
+# 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Capechusami&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Capechusami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Capechusami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Capechusami&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Capechusami&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -65,7 +151,15 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 
 ---
 
+## 🔥 Contribution Activity
 
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Capechusami&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Capechusami&limit=5&theme=dark&combine_all_yearly_contributions=true)
