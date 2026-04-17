@@ -21,19 +21,24 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/Capechu_7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-tesfachew/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://web.facebook.com/Capechu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dawit_getechew" height="30" width="40" />
-  </a>
-<a href="https://www.instagram.com/capechu_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawit_getache.1" height="30" width="40" /></a>
+<h3>🌐 Connect with me:</h3>
 
-</p>
+<p align="left">
+  <a href="https://x.com/Capechu_7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/samuel-tesfachew/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://web.facebook.com/Capechu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/capechu_7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+  </a>
 </p>
 
 
@@ -44,24 +49,12 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 <h3>Programming Languages</h3>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40" style="margin-right:20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" style="margin-right:20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40" style="margin-right:20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" style="margin-right:20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" style="margin-right:20px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
 </p>
 
 <h3>Frontend Development</h3>
