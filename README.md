@@ -137,6 +137,11 @@ Hi 👋, I'm Samuel Tesfachew, a passionate 4th-year Computer Science and Engine
 
 ---
 
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Capechusami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Capechusami&theme=radical&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
